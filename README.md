@@ -13,6 +13,7 @@ Requirement 1: Create Plots to Showcase the Relationship Between Weather Variabl
 - Latitude vs. Humidity
 - Latitude vs. Cloudiness
 - Latitude vs. Wind Speed
+ 
 Requirement 2: Compute Linear Regression for Each Relationship
 Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude)
 Then create the following plots:
