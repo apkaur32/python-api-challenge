@@ -15,16 +15,16 @@ Requirement 1: Create Plots to Showcase the Relationship Between Weather Variabl
 - Latitude vs. Wind Speed
  
 Requirement 2: Compute Linear Regression for Each Relationship
-Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude)
+Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
 Then create the following plots:
-Northern Hemisphere: Temperature vs. Latitude
-Southern Hemisphere: Temperature vs. Latitude
-Northern Hemisphere: Humidity vs. Latitude
-Southern Hemisphere: Humidity vs. Latitude
-Northern Hemisphere: Cloudiness vs. Latitude
-Southern Hemisphere: Cloudiness vs. Latitude
-Northern Hemisphere: Wind Speed vs. Latitude
-Southern Hemisphere: Wind Speed vs. Latitude
+- Northern Hemisphere: Temperature vs. Latitude
+- Southern Hemisphere: Temperature vs. Latitude
+- Northern Hemisphere: Humidity vs. Latitude
+- Southern Hemisphere: Humidity vs. Latitude
+- Northern Hemisphere: Cloudiness vs. Latitude
+- Southern Hemisphere: Cloudiness vs. Latitude
+- Northern Hemisphere: Wind Speed vs. Latitude
+- Southern Hemisphere: Wind Speed vs. Latitude
 
 Part 2: VacationPy
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
